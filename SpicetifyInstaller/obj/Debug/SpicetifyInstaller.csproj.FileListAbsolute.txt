@@ -1,0 +1,14 @@
+C:\Users\lj67s\source\repos\SpicetifyInstaller\SpicetifyInstaller\bin\Debug\SpicetifyInstaller.exe.config
+C:\Users\lj67s\source\repos\SpicetifyInstaller\SpicetifyInstaller\bin\Debug\SpicetifyInstaller.exe
+C:\Users\lj67s\source\repos\SpicetifyInstaller\SpicetifyInstaller\bin\Debug\SpicetifyInstaller.pdb
+C:\Users\lj67s\source\repos\SpicetifyInstaller\SpicetifyInstaller\obj\Debug\SpicetifyInstaller.csproj.AssemblyReference.cache
+C:\Users\lj67s\source\repos\SpicetifyInstaller\SpicetifyInstaller\obj\Debug\SpicetifyInstaller.SpicetifyInstaller.resources
+C:\Users\lj67s\source\repos\SpicetifyInstaller\SpicetifyInstaller\obj\Debug\SpicetifyInstaller.Properties.Resources.resources
+C:\Users\lj67s\source\repos\SpicetifyInstaller\SpicetifyInstaller\obj\Debug\SpicetifyInstaller.csproj.GenerateResource.cache
+C:\Users\lj67s\source\repos\SpicetifyInstaller\SpicetifyInstaller\obj\Debug\SpicetifyInstaller.csproj.CoreCompileInputs.cache
+C:\Users\lj67s\source\repos\SpicetifyInstaller\SpicetifyInstaller\obj\Debug\SpicetifyInstaller.exe
+C:\Users\lj67s\source\repos\SpicetifyInstaller\SpicetifyInstaller\obj\Debug\SpicetifyInstaller.pdb
+C:\Users\lj67s\source\repos\SpicetifyInstaller\SpicetifyInstaller\bin\Debug\SpicetifyInstaller.exe.manifest
+C:\Users\lj67s\source\repos\SpicetifyInstaller\SpicetifyInstaller\bin\Debug\SpicetifyInstaller.application
+C:\Users\lj67s\source\repos\SpicetifyInstaller\SpicetifyInstaller\obj\Debug\SpicetifyInstaller.exe.manifest
+C:\Users\lj67s\source\repos\SpicetifyInstaller\SpicetifyInstaller\obj\Debug\SpicetifyInstaller.application
